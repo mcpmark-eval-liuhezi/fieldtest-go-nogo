@@ -1,0 +1,5 @@
+hour,temperature_F,temperature_C,condition,precipitation_probability_pct
+2026-10-20T08:00:00-04:00,56,13.3,Sunny,0
+2026-10-20T09:00:00-04:00,57,13.9,Sunny,0
+2026-10-20T10:00:00-04:00,58,14.4,Sunny,0
+2026-10-20T11:00:00-04:00,60,15.6,Sunny,0
